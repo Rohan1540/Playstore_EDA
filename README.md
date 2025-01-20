@@ -1,4 +1,5 @@
 📊 Google Play Store Data Analysis
+
 Welcome to the Google Play Store Data Analysis project! This repository contains a comprehensive Exploratory Data Analysis (EDA) of a dataset from the Google Play Store, offering insights into app categories, user ratings, installs, and more.
 
 🔍 Project Overview
